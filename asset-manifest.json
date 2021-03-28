@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-rpg-character/static/css/main.85f83c83.chunk.css",
+    "main.js": "/react-rpg-character/static/js/main.993db4d3.chunk.js",
+    "main.js.map": "/react-rpg-character/static/js/main.993db4d3.chunk.js.map",
+    "runtime-main.js": "/react-rpg-character/static/js/runtime-main.c87c9713.js",
+    "runtime-main.js.map": "/react-rpg-character/static/js/runtime-main.c87c9713.js.map",
+    "static/js/2.80e695c6.chunk.js": "/react-rpg-character/static/js/2.80e695c6.chunk.js",
+    "static/js/2.80e695c6.chunk.js.map": "/react-rpg-character/static/js/2.80e695c6.chunk.js.map",
+    "static/js/3.9df98c45.chunk.js": "/react-rpg-character/static/js/3.9df98c45.chunk.js",
+    "static/js/3.9df98c45.chunk.js.map": "/react-rpg-character/static/js/3.9df98c45.chunk.js.map",
+    "index.html": "/react-rpg-character/index.html",
+    "static/css/main.85f83c83.chunk.css.map": "/react-rpg-character/static/css/main.85f83c83.chunk.css.map",
+    "static/js/2.80e695c6.chunk.js.LICENSE.txt": "/react-rpg-character/static/js/2.80e695c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c87c9713.js",
+    "static/js/2.80e695c6.chunk.js",
+    "static/css/main.85f83c83.chunk.css",
+    "static/js/main.993db4d3.chunk.js"
+  ]
+}
